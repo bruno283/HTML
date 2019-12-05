@@ -1,0 +1,267 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    background-color: #333;
+    
+}
+
+header{
+    width: 100%;
+    height: 7em;
+    
+}
+
+nav{
+    width: 100%;
+    height: 5em;
+    background-color: #4169e1;
+    position: fixed;
+}
+#caixa{
+    width: 30%;
+    height: 5em;
+    
+    
+    position: absolute;
+}
+
+#logo{
+    width: 40%;
+    height: 4em;
+    position: relative;
+    margin: 0px auto;
+    
+    float: left;
+
+}
+#logo img{
+    width: 100%;
+    height: 4em;
+}
+#texto{
+    width: 50%;
+    height: 4em;
+    position: relative;
+    margin: 0px auto;
+    
+    float: left;
+
+}
+#texto h1 {
+    font-family: "Times New Roman", Times, serif;
+    font-weight: bold;
+    font-size: 25px;
+    color: white;
+
+}
+#menu2{
+    width: 35%;
+    height: 5em;
+    float: right;
+    
+}
+
+ul {
+    width: 100%;
+    height: 5em;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    margin: 0px auto;
+    
+}
+
+li{
+    float: left;
+    margin: 0px auto;
+}
+
+li a{
+    height: 5em;
+    display: block;
+    color: white;
+    margin: 0px auto;
+    margin-right: 20px;
+    margin-top: 15px;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+li a:hover{
+    width: 70%;
+    height: 5em;
+    margin: 0px auto;        
+    text-align: center;
+    font-size: 18px;  
+    background-color: #0033cc;
+}
+main
+{
+    width: 97%;
+    height: auto;
+    min-height: 50em;
+    margin: 0px auto;
+    display: flex;
+    
+    background-color: rgba(255, 255, 255, 0.8);
+}
+
+#conteudo{
+    width: 70%;
+    height: auto;
+    min-height: 46em;
+    margin: 0px auto;
+    padding: 0px;
+    margin-top: 1.6em;
+    
+
+    
+}
+
+.img-txt{
+    width: 75%;
+    height: 23em;
+    margin: 0px auto;
+    
+}
+
+.img-txt img{
+    width: 100%;
+    height: 23em;
+    margin: 0px auto;
+    
+}
+#center{
+    width: 50%;
+    height: 7em;
+    margin: 0px auto;
+    text-align: center;
+    
+}
+
+p{
+    
+    color: #000000;
+    font-family: "Times New Roman", Times, serif;
+    
+    font-size: 23px;
+    
+}
+
+
+h1{
+    color: #000000;
+    
+    font-weight: bold;
+    
+    font-family: Brush Script MT, cursive; font-size: 40px; font-style: normal; font-variant: normal; 
+        
+}
+
+h2{
+    color: #000000;
+     
+    font-family: Brush Script MT, cursive; font-size: 35px; font-style: normal; font-variant: normal; 
+    font-weight: bold;
+    
+}
+.video-txt{
+    width: 75%;
+    height: 23em;
+    margin: 0px auto;
+    
+}
+
+.video-txt iframe{
+    width: 100%;
+    height: 23em;
+    margin: 0px auto;
+    
+}
+
+footer{
+    width: 100%;
+    height: 4em;
+    background-color: #333;
+    
+}
+#esquerda
+{
+    width: 50%;
+    height: 4em;
+    float: left;
+    
+}
+#direita
+{
+    width: 50%;
+    height: 4em;
+    float: right;
+    
+}
+
+#txt-footer
+{
+    width: 90%;
+    height: 4em;
+    
+    float: right;
+    
+    font-family: Arial, Helvetica, sans-serif, cursive; font-size: 16px; font-style: normal; font-variant: normal; 
+    color: white;
+
+}
+
+.social-box
+{
+    width: 5%;
+    height: 2em;
+    float:right;
+    margin-right: 2em;
+    margin-top: 1em;
+    
+}
+
+.social-box img
+{
+    width: 100%;
+    height: 2.3em;
+    
+}
+
+#caixa-subir
+{
+    width: 100%;
+    height: 3em;
+    
+    box-sizing: border-box;
+    
+    
+    
+    
+}
+
+#up-box{
+    width: 5%;
+    height: 3em;
+    margin-right: 1.3em;
+    float: right;
+    
+    box-sizing: border-box;
+    
+
+}
+#up-box img{
+    width: 100%;
+    height: 3em;
+    
+    float: right;
+    
+    box-sizing: border-box;
+    
+
+}
